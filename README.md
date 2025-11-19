@@ -387,7 +387,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 📧 **Questions?** Open an issue or reach out!
 
-🔗 **Live Demo**: [https://d36oiudavj64kh.cloudfront.net](https://d36oiudavj64kh.cloudfront.net)
+🔗 **Live Demo**: [https://d36oiudavj64kh.cloudfront.net](https://d36oiulavj64kh.cloudfront.net)
 
 ---
 
