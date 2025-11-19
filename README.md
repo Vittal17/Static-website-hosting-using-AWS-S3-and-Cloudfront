@@ -183,7 +183,7 @@ aws-static-website/
 ### Content Delivery Process
 
 1. **Initial Request**:
-   - User in Tokyo visits: `https://d36oiudavj64kh.cloudfront.net`
+   - User in Tokyo visits: `https://d36oiulavj64kh.cloudfront.net`
    - DNS routes to nearest CloudFront edge (Tokyo)
 
 2. **Cache Check**:
@@ -369,10 +369,6 @@ With invalidation:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ## 🙏 Acknowledgments
