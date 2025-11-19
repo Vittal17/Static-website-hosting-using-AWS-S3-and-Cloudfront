@@ -2,23 +2,6 @@
 
 A production-ready static website deployed on Amazon Web Services using S3 for storage and CloudFront CDN for global content delivery.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Deployment Guide](#deployment-guide)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Updating the Website](#updating-the-website)
-- [Cost Analysis](#cost-analysis)
-- [Performance Metrics](#performance-metrics)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project demonstrates how to deploy a static website using AWS's serverless infrastructure. The website is stored in an S3 bucket and distributed globally through CloudFront's CDN network, ensuring fast loading times and high availability for users worldwide.
